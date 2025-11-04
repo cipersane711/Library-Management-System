@@ -7,7 +7,7 @@ public class Book {
 	private String author;
 
 	
-	// TODO: implement Book functionality
+	// DONE: implement Book functionality
 	public Book(String title, String author) {
 		this.title = title;
 		this.isAvailable = true;
